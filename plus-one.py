@@ -4,7 +4,6 @@ def plus_one(digits):
 
     Args:
         digits (List[int]): List where each element is a digit of the number.
-
     Returns:
         List[int]: New list representing the incremented number.
     """

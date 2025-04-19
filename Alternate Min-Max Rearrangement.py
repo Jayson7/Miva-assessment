@@ -4,7 +4,7 @@ def alternate_min_max(arr):
     the second-smallest third, the second-largest fourth, and so on.
 
     Args:
-        arr (List[int]): Input list of integers.
+        arr (List[int]): Input list of integers
 
     Returns:
         List[int]: Rearranged list in alternate min-max order.
